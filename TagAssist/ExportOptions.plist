@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/JiaiHolon/tagassist_installer/TagAssist/TagAssist.ipa</string>
+		<string>https://github.com/JiaiHolon/tagassist_installer/blob/master/TagAssist/TagAssist.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://github.com/JiaiHolon/tagassist_installer/TagAssist/57.png</string>
+		<string>https://github.com/JiaiHolon/tagassist_installer/blob/master/TagAssist/57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://github.com/JiaiHolon/tagassist_installer/TagAssist/512.png</string>
+		<string>https://github.com/JiaiHolon/tagassist_installer/blob/master/TagAssist/512.png</string>
 	</dict>
 	<key>method</key>
 	<string>enterprise</string>
