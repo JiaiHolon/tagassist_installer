@@ -462,6 +462,31 @@
 						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
+					<string>SwiftKeychainWrapper.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8Z6DD752Y7</string>
+						<key>name</key>
+						<string>MIRRORLIFE CORP. (Enterprise)</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>AB6B290C4C0652D482ABBF033B8430133E92B31C</string>
+						<key>dateExpires</key>
+						<string>2022/6/19</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
 					<string>SwiftyJSON.framework</string>
 					<key>team</key>
 					<dict>
