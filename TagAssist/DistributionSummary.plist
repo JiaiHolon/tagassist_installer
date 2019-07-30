@@ -551,21 +551,19 @@
 			<dict>
 				<key>application-identifier</key>
 				<string>8Z6DD752Y7.jp.iholon.TagAssist</string>
+				<key>aps-environment</key>
+				<string>production</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>8Z6DD752Y7</string>
 				<key>get-task-allow</key>
 				<false/>
-				<key>keychain-access-groups</key>
-				<array>
-					<string>8Z6DD752Y7.jp.iholon.TagAssist</string>
-				</array>
 			</dict>
 			<key>name</key>
 			<string>TagAssist.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>36ca1519-2b9a-45dd-b3c1-28342d7fd13b</string>
+				<string>5c6ca7fa-44c3-4bdb-8079-51bb615dabb4</string>
 				<key>name</key>
 				<string>iOS Team Inhouse Provisioning Profile: jp.iholon.TagAssist</string>
 			</dict>
