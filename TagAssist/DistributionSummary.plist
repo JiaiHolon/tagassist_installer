@@ -557,6 +557,10 @@
 				<string>8Z6DD752Y7</string>
 				<key>get-task-allow</key>
 				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>8Z6DD752Y7.jp.iholon.TagAssist</string>
+				</array>
 			</dict>
 			<key>name</key>
 			<string>TagAssist.app</string>
